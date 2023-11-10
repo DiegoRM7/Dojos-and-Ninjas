@@ -21,6 +21,6 @@ that are not renewing their memberships to the dojos or cancelling their members
         Using CRUD, we run queries to create(insert), read(select), update(update), and/or delete(delete) data in the database tables.    
     </li>
     <li>
-        All the interactions between the dabase is then shown respectively onto the pages/application as you enter inputs and explore it.    
+        All the interactions between the database is then shown respectively onto the pages/application as you enter inputs and explore it.    
     </li>
 </ul>
